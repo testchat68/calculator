@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Калкулатор
+Name[en]=Calculator
+Comment=Прост калкулатор
+Comment[en]=Simple Calculator
+Exec=sh -c "python3 $HOME/calculator.py"
+Icon=accessories-calculator
+Terminal=false
+Categories=Utility;Calculator;
+StartupNotify=true
