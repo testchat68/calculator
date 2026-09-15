@@ -44,6 +44,8 @@ The calculator has two fully independent memory registers:
 - **`RM1` / `RM2` — double click** — clears (resets) that specific memory back to zero
 - Memory buttons change color and display the stored value as soon as a memory becomes non-zero, so you can always see at a glance what's stored in M1 and M2
 
+![Calculator 1962 memory slots screenshot](calculator%201962%20(Memory).png)
+
 ## How to Install / Run
 
 ### Requirements
