@@ -18,7 +18,7 @@
 [![Modify](https://img.shields.io/badge/modify-yes-success)](#license)
 [![Issues](https://img.shields.io/badge/contact-good.vibes.github%40gmail.com-red)](#license)
 
-A retro-styled desktop (12 digits calculator) for **Linux Mint 22.2**, built entirely with Python's standard library (Tkinter — no `pip install` needed). It features a two-tier display (full expression on top, current value below), two independent memory slots (M1 / M2), thousands separators, and a warm 1962-inspired color palette.
+A retro-styled desktop (14 digits calculator) for **Linux Mint 22.2**, built entirely with Python's standard library (Tkinter — no `pip install` needed). It features a two-tier display (full expression on top, current value below), two independent memory slots (M1 / M2), thousands separators, and a warm 1962-inspired color palette.
 
 ![Calculator 1962 screenshot](calculator%201962.png)
 
