@@ -3,7 +3,7 @@ Requirements
 
     Linux Mint 22.2 (or any modern Linux distribution)
     Python 3
-    Tkinter (usually preinstalled; if missing: sudo apt install python3-tk)
+    Tkinter (usually preinstalled; if missing - copy/paste in Terminal: sudo apt install python3-tk)
 
 No third-party packages and no pip install are required — everything runs on the Python standard library.
 
