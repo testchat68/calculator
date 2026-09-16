@@ -40,7 +40,8 @@ A retro-styled desktop calculator (up to 14 digits) for **Linux Mint 22.2**, bui
 ## Repeated `=` Operation (New Features)
 
 This additional mode can be used by accountants or engineers for cases where a single number needs to be repeatedly added to or multiplied by other numbers.
-After a normal calculation is completed with `=`, **the calculator remembers the first operand and the operator**. 
+After a normal calculation is completed with `=`, 
+**the calculator remembers the first operand and the operator**. 
 When a new number is entered and `=` is pressed again, that new number becomes the second operand while the original first operand remains unchanged.
 
 **Example (Addition):**
@@ -50,7 +51,9 @@ Instead of writing:
 * `2563+176=`
 * `2563+419=`
 * `2563+9919=`
+* 
 You can simply enter `2563+163=` first, and then continue with:
+
 * `176=`
 * `419=`
 * `9919=`
@@ -62,7 +65,9 @@ Instead of writing:
 * `1316*76=`
 * `1316*17=`
 * `1316*77=`
+* 
 You can enter `116*14=` first, and then continue with:
+
 * `76=`
 * `17=`
 * `77=`
