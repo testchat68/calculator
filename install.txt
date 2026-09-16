@@ -1,0 +1,31 @@
+How to Install / Run
+Requirements
+
+    Linux Mint 22.2 (or any modern Linux distribution)
+    Python 3
+    Tkinter (usually preinstalled; if missing: sudo apt install python3-tk)
+
+No third-party packages and no pip install are required — everything runs on the Python standard library.
+
+Both files below (calculator.py and Calculator.desktop) are included in this repository.
+Steps
+
+    1. Download calculator.py and place it directly in your home directory (~/calculator.py).
+    Make the script executable:
+        Right-click the file → Properties → Permissions tab → check "Allow executing file as program"
+
+    2.Download Calculator.desktop and place it directly in your desktop directory.
+    Right-click on the Calculator.desktop file → Properties → Permissions and check all Execute boxes, then double-click it to launch the calculator like any other app.
+
+That's it — now you can use the program.
+Optional: DS-Digital Font
+
+The display uses the DS-Digital font for that authentic digital-clock look. It's optional — if the font isn't installed, the calculator automatically falls back to Courier, and everything still works exactly the same.
+
+To install it:
+
+    Download font ds_digital.zip from this repository and extract it (it contains the .ttf font files).
+    Double-click each .ttf file to open it in the Font Viewer, then click Install.
+        Alternatively, copy the .ttf files into ~/.local/share/fonts/ (create the folder if it doesn't exist), then run fc-cache -f -v in a terminal to refresh the font cache.
+    Restart the calculator so it picks up the newly installed font.
+
