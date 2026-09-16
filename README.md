@@ -49,13 +49,13 @@ Instead of writing:
 * `2563+163=`
 * `2563+176=`
 * `2563+419=`
-* `2563+9919=`
-* 
+* `2563+919=`
+ 
 You can simply enter `2563+163=` first, and then continue with:
 
 * `176=`
 * `419=`
-* `9919=`
+* `919=`
   
 **Example (Multiplication):**
 Instead of writing:
@@ -64,13 +64,13 @@ Instead of writing:
 * `1316*76=`
 * `1316*17=`
 * `1316*77=`
-* 
-You can enter `116*14=` first, and then continue with:
+
+You can enter `1316*14=` first, and then continue with:
 
 * `76=`
 * `17=`
 * `77=`
-* 
+
 This allows the following sequence:
 
 `first operand` `operator` `second operand` `=` → result  
